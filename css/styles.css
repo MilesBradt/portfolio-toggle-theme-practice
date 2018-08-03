@@ -9,7 +9,7 @@
 }
 
 .hyperlink{
-  color: #6f96be
+  color: #6f96be;
 }
 
 .header{
@@ -19,7 +19,7 @@
   color: #525252;
 }
 
-.well{
+.panel{
   background-color: #d9d9d9;
 
 }
@@ -41,12 +41,15 @@ p.description{
 }
 
 img.linkedin-logo{
+  /*Unsure if float even makes a difference here*/
+  float: right;
   width: 100%;
   height: 100%;
   padding: 15px;
 }
 
 img.twitch-logo{
+  float: right;
   width: 100%;
   height: 100%;
   padding:15px;
