@@ -15,7 +15,7 @@ _Portfolio webpage made for an independent project through Epicodus_
 
 ## Known Bugs
 
-_Hyper links in past projects overlap when window is too small_
+_Hyperlinks in past projects overlap when window is too small_
 
 ## Support and contact details
 
