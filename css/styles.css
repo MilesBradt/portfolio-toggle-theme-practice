@@ -7,13 +7,14 @@
 .row{
   color: #d9d9d9;
   padding: 25px;
+  font-size: 18px;
 }
 
 .hyperlink{
   color: #6f96be
 }
 
-.worksheader{
+.header{
   padding: 25px;
   color: #525252;
   padding 25px;
@@ -23,8 +24,26 @@
   background-color: #d9d9d9;
 }
 
-p.names{
-  font-size: 20px;
+img.linkedin-logo{
+  width: 100%;
+  height: 100%;
+  padding: 5px;
+}
+
+img.twitch-logo{
+  width: 100%;
+  height: 100%;
+  padding: 5px;
+}
+
+img.linkedin-logo:hover{
+  transform: scale(1.1);
+  padding: 5px;
+}
+
+img.twitch-logo:hover{
+  transform: scale(1.1);
+  padding: 5px;
 }
 
 h1#namepicture{
@@ -41,10 +60,6 @@ img#namepicture{
     width: 320px;
     height: 320px;
     border-radius: 33%;
-}
-
-footer{
-  color: #525252;
 }
 
 
