@@ -1,18 +1,26 @@
 .jumbotron{
   background-color: #d9d9d9;
-  height: 48-px;
+  height: 500px;
 
 }
 
 .row{
   color: #d9d9d9;
-  display: flex;
-  margin: 0 auto;
-  padding: 15px;
+  padding: 25px;
 }
 
 .hyperlink{
   color: #6f96be
+}
+
+.worksheader{
+  padding: 25px;
+  color: #525252;
+  padding 25px;
+}
+
+.well{
+  background-color: #d9d9d9;
 }
 
 p.names{
@@ -35,11 +43,10 @@ img#namepicture{
     border-radius: 33%;
 }
 
-h1#worksheader{
-  text-align: left;
-  padding: 15px;
-  color: #d9d9d9;
+footer{
+  color: #525252;
 }
+
 
 body{
   background-color: #525252;
