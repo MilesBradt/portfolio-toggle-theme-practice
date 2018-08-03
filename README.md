@@ -15,7 +15,7 @@ _Portfolio webpage made for an independent project through Epicodus_
 
 ## Known Bugs
 
-_No known bugs, however, there might be a few extra classes or spelling errors_
+_Bootstrap panel doesn't seem to change color when opened through github host link, works fine with index.html is loaded in browser_
 
 ## Support and contact details
 
