@@ -1,13 +1,31 @@
+.jumbotron{
+  background-color: #d9d9d9;
+}
+
+.row{
+  color: #d9d9d9;
+  float: left;
+}
+
 h1#namepicture{
   text-align: center;
-  color: #bdbdbd;
+  color: #525252;
   font-family: serif;
   font-size: 60px;
+
 }
 
 img#namepicture{
     display: flex;
     margin: 0 auto;
+    width: 26%;
+    height: 26%;
+    border-radius: 33%;
+}
+
+h1#worksheader{
+  text-align: center;
+  color: #d9d9d9;
 }
 
 body{
