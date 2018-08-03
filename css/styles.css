@@ -1,7 +1,5 @@
 .jumbotron{
   background-color: #d9d9d9;
-  height: 500px;
-
 }
 
 .row{
@@ -15,13 +13,20 @@
 }
 
 .header{
+  font-family: serif;
+  font-size: 48px;
   padding: 25px;
   color: #525252;
-  padding 25px;
 }
 
 .well{
   background-color: #d9d9d9;
+
+}
+
+.epicodus{
+  /*Color pulled from Epicodus logo*/
+  color: #5bc8c9;
 }
 
 p.blockquote-note{
@@ -48,12 +53,12 @@ img.twitch-logo{
 }
 
 img.linkedin-logo:hover{
-  transform: scale(1.05);
+  transform: scale(1.03);
   padding: 15px;
 }
 
 img.twitch-logo:hover{
-  transform: scale(1.05);
+  transform: scale(1.03);
   padding: 15px;
 }
 
@@ -62,7 +67,6 @@ h1#namepicture{
   color: #525252;
   font-family: serif;
   font-size: 60px;
-
 }
 
 img#namepicture{
@@ -79,5 +83,4 @@ blockquote{
 
 body{
   background-color: #525252;
-
 }
