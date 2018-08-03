@@ -1,0 +1,16 @@
+h1#namepicture{
+  text-align: center;
+  color: #bdbdbd;
+  font-family: serif;
+  font-size: 60px;
+}
+
+img#namepicture{
+    display: flex;
+    margin: 0 auto;
+}
+
+body{
+  background-color: #525252;
+
+}
