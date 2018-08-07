@@ -1,11 +1,25 @@
+.light-theme.row.decpription {
+  background-color: #d9d9d9;
+  color: #525252
+  padding: 25px;
+  font-size: 18px;
+}
+
+.dark-theme.row {
+  background-color: #525252;
+  color: #d9d9d9;
+  padding: 25px;
+  font-size: 18px;
+}
+
 .jumbotron{
   background-color: #d9d9d9;
 }
 
 .row{
-  color: #d9d9d9;
   padding: 25px;
   font-size: 18px;
+  /* color: #d9d9d9; */
 }
 
 .hyperlink{
@@ -36,7 +50,7 @@ p.blockquote-note{
 }
 
 p.description{
-  color: #d9d9d9;
+  /* color: #d9d9d9; */
   font-size: 16px;
 }
 
@@ -84,6 +98,6 @@ blockquote{
   padding-left: 25px;
 }
 
-body{
+body {
   background-color: #525252;
 }
